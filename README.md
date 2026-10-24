@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Resolve {{ENV.*}} tokens in strings using environment variables with case-insensitive and camel-to-snake lookup.
-- A Env integration needs to reuse the capabilities of @x12i/env-tokens inside a larger application.
+- Resolve a template's environment placeholders from an explicit environment map.
+- Accept camel-case placeholders backed by snake-case environment names.
 
 ## Links
 

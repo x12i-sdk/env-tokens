@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/env-tokens",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/env-tokens",
+  "usageRepository": "https://github.com/x12i-sdk/env-tokens",
+  "sourceRepository": "https://github.com/x12i/env-tokens-",
+  "sourceCommit": "b35afa08a1f9ccca088747f653261c3569a9fb36",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Resolve configuration placeholders from an explicit environment",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:02:10.058575+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "dcb7edf3936882a757f6d8800a7e8fdd12b9f028a8d14138d5fc5d9731480076",
+    "manifestSha256": "ab24b2ade70dd630a345c330cec32bf13677264e5fccb1dfff9da0a499ffa01d"
+  },
+  "npmPackages": [
+    "@x12i/env-tokens"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
